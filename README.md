@@ -20,4 +20,4 @@ You can use such branching strategies:
 
 ## Summary:
 I showed by example how works GitHub Flow
-![](https://github.com/Disablak/devops-week1-task2/github-flow.png)
+![](https://github.com/Disablak/devops-week1-task2/blob/master/github-flow.png)
